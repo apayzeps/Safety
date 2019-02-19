@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">330e51fedb232300d2671780399619a3</block>
+        <comment/>
+        <connected_to/>
+        <display_text/>
+        <flow display_value="Issue approval">8da7d57adb232300d2671780399619fe</flow>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>2</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-14 14:10:09</sys_created_on>
+        <sys_id>3f0e51fedb232300d2671780399619a4</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_252772_safety">0ee804aedb232300d267178039961978</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">0ee804aedb232300d267178039961978</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_3f0e51fedb232300d2671780399619a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-14 14:10:20</sys_updated_on>
+        <ui_id>c996ca65-c7ae-4348-8e68-574631d3f5db</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=3f0e51fedb232300d2671780399619a4"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>3f0e51fedb232300d2671780399619a4</document_key>
+        <order>20</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-14 14:10:09</sys_created_on>
+        <sys_id>370e51fedb232300d2671780399619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-14 14:10:09</sys_updated_on>
+        <value>{{24808ca9-3faf-47b9-a7d8-4c53ef26957b.approval_state}}=approved</value>
+        <variable display_value="">9a5f5105c32632002841b63b12d3ae46</variable>
+    </sys_variable_value>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>due_date</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-14 13:38:24</sys_created_on>
+        <sys_id>03b65d3adb232300d267178039961960</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>due_date</sys_name>
+        <sys_package display_value="Safety" source="x_252772_safety">0ee804aedb232300d267178039961978</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">0ee804aedb232300d267178039961978</sys_scope>
+        <sys_update_name>sys_ui_policy_action_03b65d3adb232300d267178039961960</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-14 13:38:24</sys_updated_on>
+        <table>x_252772_safety_issue</table>
+        <ui_policy display_value="Mandatory due dates for projects">6496d93adb232300d267178039961940</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

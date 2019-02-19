@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>3d1e91fedb232300d2671780399619da</id>
+        <name>Issue approval</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-14 14:10:17</sys_created_on>
+        <sys_id>391e91fedb232300d2671780399619db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Issue approval</sys_name>
+        <sys_package display_value="Safety" source="x_252772_safety">0ee804aedb232300d267178039961978</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">0ee804aedb232300d267178039961978</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_391e91fedb232300d2671780399619db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-14 14:10:17</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>

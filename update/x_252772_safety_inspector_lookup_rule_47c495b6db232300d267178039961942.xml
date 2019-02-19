@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_252772_safety_inspector_lookup_rule">
+    <x_252772_safety_inspector_lookup_rule action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>Small</category>
+        <inspector display_value="Natasha Ingram">46c5bf6ca9fe1981010713e3ac7d3384</inspector>
+        <order>100</order>
+        <sys_class_name>x_252772_safety_inspector_lookup_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-14 13:29:53</sys_created_on>
+        <sys_id>47c495b6db232300d267178039961942</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Safety" source="x_252772_safety">0ee804aedb232300d267178039961978</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">0ee804aedb232300d267178039961978</sys_scope>
+        <sys_update_name>x_252772_safety_inspector_lookup_rule_47c495b6db232300d267178039961942</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-14 13:29:53</sys_updated_on>
+    </x_252772_safety_inspector_lookup_rule>
+</record_update>
