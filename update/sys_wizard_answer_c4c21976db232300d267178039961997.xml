@@ -9,7 +9,7 @@
         <next_question/>
         <order>100</order>
         <payload_name/>
-        <question display_value="Application File" name="Application File">3789f552db212300d267178039961996</question>
+        <question display_value="">3789f552db212300d267178039961996</question>
         <roles/>
         <script/>
         <sys_class_name>sys_wizard_answer</sys_class_name>

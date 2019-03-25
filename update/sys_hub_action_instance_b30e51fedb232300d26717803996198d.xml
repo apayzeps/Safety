@@ -5,7 +5,7 @@
         <action_type display_value="Ask For Approval">f8f2e9920b10030085c083eb37673abd</action_type>
         <action_type_parent/>
         <comment/>
-        <compiled_snapshot/>
+        <compiled_snapshot display_value="Ask For Approval">f8f2e9920b10030085c083eb37673abd</compiled_snapshot>
         <display_text/>
         <flow display_value="Issue approval">8da7d57adb232300d2671780399619fe</flow>
         <order>1</order>
@@ -14,14 +14,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-02-14 14:10:09</sys_created_on>
         <sys_id>b30e51fedb232300d26717803996198d</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Safety" source="x_252772_safety">0ee804aedb232300d267178039961978</sys_package>
         <sys_policy/>
         <sys_scope display_value="Safety">0ee804aedb232300d267178039961978</sys_scope>
         <sys_update_name>sys_hub_action_instance_b30e51fedb232300d26717803996198d</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-02-14 14:10:19</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-03-12 15:18:20</sys_updated_on>
         <ui_id>24808ca9-3faf-47b9-a7d8-4c53ef26957b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=b30e51fedb232300d26717803996198d"/>

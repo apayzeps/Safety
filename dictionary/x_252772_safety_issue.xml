@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Issue" max_length="40" name="x_252772_safety_issue" sizeclass="3" type="collection">
+    <element extends="task" label="Issue" max_length="40" name="x_252772_safety_issue" sizeclass="9" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Category" max_length="40" name="category" type="string">
             <choice>
                 <element inactive_on_update="false" label="Big" value="Big"/>
@@ -8,5 +8,6 @@
         </element>
         <element label="Inspector" max_length="32" name="inspector" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
         <element label="Project" max_length="40" name="project" type="boolean"/>
+        <element label="Incident" max_length="32" name="u_incident" reference="incident" type="reference"/>
     </element>
 </database>

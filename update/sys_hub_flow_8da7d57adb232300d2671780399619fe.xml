@@ -9,7 +9,7 @@
         <description/>
         <internal_name>issue_approval</internal_name>
         <label_cache>[{"name":"e65ccb9d-d662-422c-9af6-ef3d88abc9fa.table_name","label":"3.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"e65ccb9d-d662-422c-9af6-ef3d88abc9fa.record","label":"3.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"1f5f7a6c-6390-44d4-b975-f1943ac10630.table_name","label":"2.1➛Issue Table","reference":"x_252772_safety_issue","reference_display":"Issue","type":"table_name","base_type":"table_name"},{"name":"1f5f7a6c-6390-44d4-b975-f1943ac10630.record","label":"2.1➛Issue Record","reference":"x_252772_safety_issue","reference_display":"Issue","type":"reference","base_type":"reference"},{"name":"Updated_1.current.opened_by","label":"Trigger➛Issue Record➛Opened by","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"x_252772_safety_issue","column_name":"opened_by"},{"name":"Updated_1.current","label":"Trigger➛Issue Record","reference":"x_252772_safety_issue","reference_display":"Issue","type":"reference","base_type":"reference"},{"name":"24808ca9-3faf-47b9-a7d8-4c53ef26957b.approval_state","label":"1➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"}]</label_cache>
-        <latest_snapshot>3d1e91fedb232300d2671780399619da</latest_snapshot>
+        <latest_snapshot>fbf66703dbc03300e768fbef299619e7</latest_snapshot>
         <master_snapshot>3d1e91fedb232300d2671780399619da</master_snapshot>
         <name>Issue approval</name>
         <outputs/>
@@ -22,15 +22,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-02-14 13:42:06</sys_created_on>
         <sys_id>8da7d57adb232300d2671780399619fe</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Issue approval</sys_name>
         <sys_package display_value="Safety" source="x_252772_safety">0ee804aedb232300d267178039961978</sys_package>
         <sys_policy/>
         <sys_scope display_value="Safety">0ee804aedb232300d267178039961978</sys_scope>
         <sys_update_name>sys_hub_flow_8da7d57adb232300d2671780399619fe</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-02-14 14:10:19</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-03-12 15:18:20</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=8da7d57adb232300d2671780399619fe"/>
     <sys_variable_value action="delete_multiple" query="document_key=8da7d57adb232300d2671780399619fe"/>
 </record_update>

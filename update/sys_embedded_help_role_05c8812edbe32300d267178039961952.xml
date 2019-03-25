@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="sn_dd_safety_reporting" name="sn_dd_safety_reporting">85c8812edbe32300d267178039961950</role>
+        <role display_value="">85c8812edbe32300d267178039961950</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-02-13 17:58:38</sys_created_on>
