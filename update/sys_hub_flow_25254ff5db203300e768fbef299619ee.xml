@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>overdue_safety_issue_notification</internal_name>
+        <label_cache>[{"name":"827c52de-ad30-43e2-9c4a-61b700e4f838.item.assigned_to","label":"2➛Issue Record➛Assigned to","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"x_252772_safety_issue","column_name":"assigned_to"},{"name":"780040cf-7224-4dae-b3ad-b997ac6f3baa.email","label":"2.1➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference"},{"name":"b263d696-e627-4588-8fa8-925a978e9090.email","label":"3➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference"},{"name":"827c52de-ad30-43e2-9c4a-61b700e4f838.item","label":"2➛Issue Record","reference":"x_252772_safety_issue","reference_display":"Issue","type":"reference","base_type":"reference"},{"name":"b50ef385-25f7-4964-953e-209d5501c85e.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"b50ef385-25f7-4964-953e-209d5501c85e.Table","label":"1➛Issue Table","reference":"x_252772_safety_issue","reference_display":"Issue","type":"table_name","base_type":"table_name"},{"name":"b50ef385-25f7-4964-953e-209d5501c85e.Records","label":"1➛Issue Records","reference":"x_252772_safety_issue","reference_display":"Issue","type":"records","base_type":"records"},{"name":"764e74e0-88b0-4c96-ab21-dead0c39e460.Table","label":"1➛Issue Table","reference":"x_252772_safety_issue","reference_display":"Issue","type":"table_name","base_type":"table_name"},{"name":"764e74e0-88b0-4c96-ab21-dead0c39e460.Record","label":"1➛Issue Record","reference":"x_252772_safety_issue","reference_display":"Issue","type":"reference","base_type":"reference"}]</label_cache>
+        <latest_snapshot>6c280f79db203300e768fbef299619ee</latest_snapshot>
+        <master_snapshot>6c280f79db203300e768fbef299619ee</master_snapshot>
+        <name>Overdue Safety Issue Notification</name>
+        <outputs/>
+        <remote_trigger_id>34284f79db203300e768fbef29961930</remote_trigger_id>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-02 12:09:26</sys_created_on>
+        <sys_id>25254ff5db203300e768fbef299619ee</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Overdue Safety Issue Notification</sys_name>
+        <sys_package display_value="Safety" source="x_252772_safety">0ee804aedb232300d267178039961978</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">0ee804aedb232300d267178039961978</sys_scope>
+        <sys_update_name>sys_hub_flow_25254ff5db203300e768fbef299619ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-02 12:22:29</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=25254ff5db203300e768fbef299619ee"/>
+    <sys_variable_value action="delete_multiple" query="document_key=25254ff5db203300e768fbef299619ee"/>
+</record_update>
