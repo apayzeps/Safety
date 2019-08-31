@@ -21,5 +21,6 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-03-12 15:21:58</sys_updated_on>
         <table>x_252772_safety_issue</table>
+        <u_view_condition/>
     </sys_process_flow>
 </record_update>

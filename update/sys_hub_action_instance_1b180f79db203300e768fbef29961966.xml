@@ -4,7 +4,7 @@
         <action_type display_value="Look Up Records">ca07ee090b30030085c083eb37673afc</action_type>
         <action_type_parent/>
         <comment/>
-        <compiled_snapshot/>
+        <compiled_snapshot display_value="Look Up Records">ca07ee090b30030085c083eb37673afc</compiled_snapshot>
         <display_text/>
         <flow display_value="Overdue Safety Issue Notification">25254ff5db203300e768fbef299619ee</flow>
         <order>1</order>
@@ -13,14 +13,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-04-02 12:22:23</sys_created_on>
         <sys_id>1b180f79db203300e768fbef29961966</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Safety" source="x_252772_safety">0ee804aedb232300d267178039961978</sys_package>
         <sys_policy/>
         <sys_scope display_value="Safety">0ee804aedb232300d267178039961978</sys_scope>
         <sys_update_name>sys_hub_action_instance_1b180f79db203300e768fbef29961966</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-04-02 12:22:29</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-04-03 07:00:17</sys_updated_on>
         <ui_id>b50ef385-25f7-4964-953e-209d5501c85e</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=1b180f79db203300e768fbef29961966"/>
